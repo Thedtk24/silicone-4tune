@@ -46,7 +46,6 @@ Silicone4Tune/
 ├── docs/
 │   └── Silicone 4Tune-v1.pdf
 ├── reports/
-├── experiments/
 └── README.md
 ```
 ---
@@ -159,13 +158,3 @@ python3 grid_search.py
 python3 random_search.py
 python3 llm_tuner.py
 ```
-
----
-
-## 7. Conclusion
-
-- Projet complet de HPC + autotuning + LLM reasoning
-- Démonstration scientifique claire
-- Baseline solide (blocking, thread scaling)
-- LLM montre son efficacité même sur un Mac M4, sans cluster HPC
-- Résultats reproductibles et visualisables
