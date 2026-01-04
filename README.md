@@ -43,8 +43,6 @@ Silicone4Tune/
 │   ├── grid_search.py
 │   ├── llm_decider.py
 │   └── llm_tuner.py
-├── docs/
-│   └── Silicone 4Tune-v1.pdf
 └── README.md
 ```
 ---
